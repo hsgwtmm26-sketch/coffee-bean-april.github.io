@@ -64,7 +64,7 @@ p{
 
 /* Banner area */
 .banner{
-    background-image: url(/assets/images/banner-bg.jpg);
+    background-image: url(../images/banner-bg.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -125,11 +125,11 @@ p{
 
 .ads-item1{
     margin-right: 3%;
-    background-image: url(/assets/images/ads-img1.jpg);
+    background-image: url(../images/ads-img1.jpg);
 }
 
 .ads-item2{
-    background-image: url(/assets/images/ads-img2.jpg);
+    background-image: url(../images/ads-img2.jpg);
 }
 
 .ads-text{
@@ -216,7 +216,7 @@ p{
 .discount{
     width: 85%;
     margin: 4em auto;
-    background-image: url(/assets/images/discount-img.jpg);
+    background-image: url(../images/discount-img.jpg);
     background-position: center;
     background-size: cover;
     height: 350px;
@@ -261,20 +261,20 @@ p{
 
 .ads-item3{
     margin-right: 3%;
-    background-image: url(/assets/images/ads-img3.jpg);
+    background-image: url(../images/ads-img3.jpg);
 }
 
 .ads-item4{
-    background-image: url(/assets/images/ads-img4.jpg);
+    background-image: url(../images/ads-img4.jpg);
 }
 
 .ads-item5{
     margin-right: 3%;
-    background-image: url(/assets/images/ads-img5.jpg);
+    background-image: url(../images/ads-img5.jpg);
 }
 
 .ads-item6{
-    background-image: url(/assets/images/ads-img6.jpg);
+    background-image: url(../images/ads-img6.jpg);
 }
 
 /* Reservation area */
@@ -340,7 +340,7 @@ form h3{
 }
 
 form .card-img{
-    background-image: url(/assets/images/reservation-cards.png);
+    background-image: url(../images/reservation-cards.png);
     background-size: contain;
     background-repeat: no-repeat;
     width: 150px;
@@ -360,7 +360,7 @@ form #btn-send{
 
 /* footer */
 .footer{
-    background-image: url(/assets/images/footer-img.jpg);
+    background-image: url(../images/footer-img.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 2em;
